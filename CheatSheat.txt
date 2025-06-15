@@ -1,0 +1,5 @@
+How to reverse a String  ➤  new StringBuilder(s).reverse().toString()
+Map iteration            ➤  for (Map.Entry<K,V> entry : map.entrySet()) ...
+List to Array            ➤  list.toArray(new String[0])
+Int to String Binary     ➤  Integer.toBinaryString(n)
+String Binary to Int     ➤  Integer.parseInt(binary, 2);
