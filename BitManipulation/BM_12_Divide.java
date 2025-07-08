@@ -11,8 +11,8 @@ public class BM_12_Divide {
             System.out.println(1);
         };
 
-        long d = Math.abs(divisor);
-        long n = Math.abs(dividend);
+        long d = Math.abs((long)divisor);
+        long n = Math.abs((long)dividend);
 
         Boolean sign = true;
 
