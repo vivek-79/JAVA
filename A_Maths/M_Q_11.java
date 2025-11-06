@@ -8,18 +8,13 @@ public class M_Q_11 {
         
 
 
-        int num = 4;
+        int num = 45;
         int cnt  =0;
 
         while(num>0){
-
-            if( (num & 1) == 1){
-                cnt ++;
-            }
-
-            num =num >>1;
+            cnt ++;
+            num  = num & (num-1);
         }
-
         System.out.println(cnt);
     }
 }
