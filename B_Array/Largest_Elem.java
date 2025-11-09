@@ -3,7 +3,7 @@ package B_Array;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class B_1_Largest_Elem {
+public class Largest_Elem {
     
     public static void solve(Scanner sc , PrintWriter pw){
 

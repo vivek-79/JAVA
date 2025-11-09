@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class IoUtils {
+public class B_1_IoUtils {
     public static Scanner sc;
     public static PrintWriter pw;
 
