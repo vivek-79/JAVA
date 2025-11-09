@@ -16,7 +16,7 @@ public class C_0_Driver {
 
             for( int t=0;t<T;t++){
                 
-                Palidrom_Check.solve(B_1_IoUtils.sc, B_1_IoUtils.pw);
+                Printing_All_Sub_Sequences.solve(B_1_IoUtils.sc, B_1_IoUtils.pw);
             }
 
         } catch (Exception e) {
